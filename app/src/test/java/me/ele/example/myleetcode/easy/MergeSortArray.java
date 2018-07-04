@@ -13,7 +13,7 @@ import org.junit.Test;
  * nums1 = [1,2,3,0,0,0], m = 3
  * nums2 = [2,5,6],       n = 3
  * 输出: [1,2,2,3,5,6]
- * 
+ *
  * 结题技巧：从后面插入
  */
 public class MergeSortArray {
